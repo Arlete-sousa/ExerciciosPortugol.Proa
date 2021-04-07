@@ -1,9 +1,15 @@
 1. Faça um programa que leia um valor informado pelo usuário e diga se o valor informado é positivo, negativo ou zero.
+
 2. Faça um programa mostrando a tabuada do 5 com os números de 1 a 10.
+
 3. Faça um programa para ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.
+
 4. Faça um programa que leia 3 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
+
 5. Faça um programa que receba dois números reais e mostre um menu de opções (Subtrair, Somar, Multiplicar e Dividir), realizando a operação de acordo com a opção escolhida no menu e mostrando o resultado.
+
 6. Faça um programa que leia dois valores e exiba uma das três mensagens a seguir: ‘Números iguais’, caso os números sejam iguais ‘Primeiro é maior’, caso o primeiro seja maior que o segundo; ‘Segundo maior’, caso o segundo seja maior que o primeiro.
+
 7. Faça um programa que exiba os números de 1 (inclusive) a 10 (inclusive) em ordem crescente
 8. Faça um programa que exiba os números de 1 (inclusive) a 10 (inclusive) em ordem decrescente.
 9. Faça um programa que imprima os 10 primeiros números inteiros maiores que 100.
