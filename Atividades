@@ -10,11 +10,16 @@
 
 6. Faça um programa que leia dois valores e exiba uma das três mensagens a seguir: ‘Números iguais’, caso os números sejam iguais ‘Primeiro é maior’, caso o primeiro seja maior que o segundo; ‘Segundo maior’, caso o segundo seja maior que o primeiro.
 
-7. Faça um programa que exiba os números de 1 (inclusive) a 10 (inclusive) em ordem crescente
+7. Faça um programa que exiba os números de 1 (inclusive) a 10 (inclusive) em ordem crescente.
+
 8. Faça um programa que exiba os números de 1 (inclusive) a 10 (inclusive) em ordem decrescente.
+
 9. Faça um programa que imprima os 10 primeiros números inteiros maiores que 100.
+
 10. Faça um programa que leia um valor informado pelo usuário e imprima todos os valores inteiros entre 1 (inclusive) e o numero informado (inclusive). Considere que o número informado será sempre maior que ZERO.
+
 11. Faça um programa que 10 valores informados pelo usuário, calcule, exiba os números informados e escreva a média aritmética desses valores lidos.
+
 12. Faça um programa que leia 10 números informados pelo usuário e ao final da leitura escrever a soma total dos 10 números lidos.
 13. Faça um programa que leia 10 números que o usuário vai informar. Todos os números lidos com valor inferior a 40 devem ser somados. Escreva o valor final da soma efetuada.
 16. Reescreva o código abaixo como um programa do Portugol.
