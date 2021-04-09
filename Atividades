@@ -21,8 +21,11 @@
 11. Faça um programa que 10 valores informados pelo usuário, calcule, exiba os números informados e escreva a média aritmética desses valores lidos.
 
 12. Faça um programa que leia 10 números informados pelo usuário e ao final da leitura escrever a soma total dos 10 números lidos.
+
 13. Faça um programa que leia 10 números que o usuário vai informar. Todos os números lidos com valor inferior a 40 devem ser somados. Escreva o valor final da soma efetuada.
+
 16. Reescreva o código abaixo como um programa do Portugol.
+
 17. Reescreva o código abaixo como um programa do Portugol.
 18. A Wesley Peças Automotivas calcula o preço de venda dos seus produtos com uma margem de aumento x%. Portanto, construa um algoritmo em Portugol que, dados o valor de custo e a margem de aumento, imprima o preço de venda. O usuário deve informar tanto o valor do produto quanto a margem de lucro
 19. Reescreva o código abaixo como um programa do Portugol.
