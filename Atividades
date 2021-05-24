@@ -7,7 +7,7 @@ ________________________________________________________________________________
 4. Faça um programa que leia 3 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores.
 __________________________________________________________________________________________________________
 5. Faça um programa que receba dois números reais e mostre um menu de opções (Subtrair, Somar, Multiplicar e Dividir), realizando a operação de acordo com a opção escolhida no menu e mostrando o resultado.
-_____________________________________________
+_________________________________________________
 6. Faça um programa que leia dois valores e exiba uma das três mensagens a seguir: ‘Números iguais’, caso os números sejam iguais ‘Primeiro é maior’, caso o primeiro seja maior que o segundo; ‘Segundo maior’, caso o segundo seja maior que o primeiro.
 
 7. Faça um programa que exiba os números de 1 (inclusive) a 10 (inclusive) em ordem crescente.
